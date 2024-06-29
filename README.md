@@ -40,5 +40,5 @@ To use any of the scripts in this repository, follow these steps:
     ```bash
     cd script-collection
     ```
-
+3.Open Vscode, select the folder script-collection, open terminal and write python3 backup_script.py or python3 data_analysis_script.py 
 
