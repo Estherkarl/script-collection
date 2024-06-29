@@ -10,7 +10,7 @@ Welcome to the Script Collection repository! This repository contains a variety 
   - [Web Scraping Scripts](#web-scraping-scripts)
   - [Utility Scripts](#utility-scripts)
 - [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Introduction
 This repository is a collection of scripts that I have created over time. They serve various purposes and are written in Python. The goal is to provide a handy resource for common scripting needs.
