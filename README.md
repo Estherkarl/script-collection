@@ -9,6 +9,7 @@ Welcome to the Script Collection repository! This repository contains a variety 
   - [Data Analysis Scripts](#data-analysis-scripts)
   - [Web Scraping Scripts](#web-scraping-scripts)
   - [Utility Scripts](#utility-scripts)
+  - [Graphics Scripts](#Graphips-scripts)
 - [Usage](#usage)
 
 
