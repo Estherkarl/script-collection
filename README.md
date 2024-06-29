@@ -38,13 +38,7 @@ To use any of the scripts in this repository, follow these steps:
     ```
 2. Navigate to the script directory:
     ```bash
-    cd script-collection/<script-directory>
+    cd script-collection
     ```
-3. Follow any specific instructions provided in the script's comments or in the directory's README file.
 
-## Contributing
-Contributions are welcome! If you have a script that you think would be a great addition to this collection, please submit a pull request. Make sure to follow these guidelines:
-- Provide a meaningful description of the script.
-- Ensure the script is well-documented and easy to understand.
-- Test the script to ensure it works as expected.
 
