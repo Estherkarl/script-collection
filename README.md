@@ -34,7 +34,7 @@ To use any of the scripts in this repository, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/script-collection.git
+    git clone https://github.com/Estherkarl/script-collection.git
     ```
 2. Navigate to the script directory:
     ```bash
