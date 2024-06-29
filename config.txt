@@ -1,0 +1,4 @@
+server = example.com
+port = 8080
+username = admin
+password = secret
