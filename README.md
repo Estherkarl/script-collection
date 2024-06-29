@@ -11,10 +11,9 @@ Welcome to the Script Collection repository! This repository contains a variety 
   - [Utility Scripts](#utility-scripts)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
-This repository is a collection of scripts that I have created over time. They serve various purposes and are written in different languages like Python, Bash, JavaScript, and more. The goal is to provide a handy resource for common scripting needs.
+This repository is a collection of scripts that I have created over time. They serve various purposes and are written in Python. The goal is to provide a handy resource for common scripting needs.
 
 ## Scripts Overview
 
@@ -49,5 +48,3 @@ Contributions are welcome! If you have a script that you think would be a great 
 - Ensure the script is well-documented and easy to understand.
 - Test the script to ensure it works as expected.
 
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
