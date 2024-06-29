@@ -47,4 +47,3 @@ To use any of the scripts in this repository, follow these steps:
     python3 script_name.py
     ```
 
-Feel free to update the sections and descriptions as per the specific scripts you have in your collection. This README structure provides a clear overview of the types of scripts available in your repository, including Graphics Scripts for creating visual outputs using Python.
