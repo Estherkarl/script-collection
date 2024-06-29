@@ -1,6 +1,6 @@
 # script-collection
 
-Welcome to the Script Collection repository! This repository contains a variety of useful scripts written in different programming languages. These scripts are designed to automate tasks, perform data analysis, and solve common problems.
+Welcome to the Script Collection repository! This repository contains a variety of useful scripts written in different programming languages. These scripts are designed to automate tasks, perform data analysis, scrape web data, create graphical outputs, and solve common problems.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,9 +9,7 @@ Welcome to the Script Collection repository! This repository contains a variety 
   - [Data Analysis Scripts](#data-analysis-scripts)
   - [Web Scraping Scripts](#web-scraping-scripts)
   - [Utility Scripts](#utility-scripts)
-  - [Graphics Scripts](#Graphips-scripts)
-- [Usage](#usage)
-
+  - [Graphics Scripts](#graphics-scripts)  
 
 ## Introduction
 This repository is a collection of scripts that I have created over time. They serve various purposes and are written in Python. The goal is to provide a handy resource for common scripting needs.
@@ -30,6 +28,9 @@ Scripts designed to extract data from websites, using tools like BeautifulSoup a
 ### Utility Scripts
 Miscellaneous scripts that perform various utility functions, such as file manipulation and system monitoring.
 
+### Graphics Scripts 
+Scripts that create graphical outputs using Python's Turtle module or other graphics libraries.
+
 ## Usage
 To use any of the scripts in this repository, follow these steps:
 
@@ -41,5 +42,9 @@ To use any of the scripts in this repository, follow these steps:
     ```bash
     cd script-collection
     ```
-3.Open Vscode, select the folder script-collection, open terminal and write python3 backup_script.py or python3 data_analysis_script.py 
+3. Run any Python script using Python 3:
+    ```bash
+    python3 script_name.py
+    ```
 
+Feel free to update the sections and descriptions as per the specific scripts you have in your collection. This README structure provides a clear overview of the types of scripts available in your repository, including Graphics Scripts for creating visual outputs using Python.
